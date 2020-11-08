@@ -1,7 +1,7 @@
 ---
 title: Learn GitHub Actions
 shortTitle: Learn GitHub Actions
-intro: 'Whether you are new to {% data variables.product.prodname_actions %} or interested in learning all they have to offer, this guide will help you use {% data variables.product.prodname_actions %} to accelerate your application development workflows.'
+intro: 'Whether you are new to {% data variables.product.zsoleszh_actions %} or interested in learning all they have to offer, this guide will help you use {% data variables.product.prodname_actions %} to accelerate your application development workflows.'
 redirect_from:
   - /articles/about-github-actions
   - /github/automating-your-workflow-with-github-actions/about-github-actions
@@ -22,12 +22,12 @@ redirect_from:
   - /actions/automating-your-workflow-with-github-actions/configuring-workflows
   - /github/automating-your-workflow-with-github-actions/getting-started-with-github-actions
   - /actions/automating-your-workflow-with-github-actions/getting-started-with-github-actions
-  - /actions/configuring-and-managing-workflows
+  - /actions/automating-configuring-and-managing-workflows
   - /articles/getting-started-with-github-actions
   - /actions/migrating-to-github-actions
 versions:
-  free-pro-team: '*'
-  enterprise-server: '>=2.22'
+  free-pro-team: '2001'
+  enterprise-server: '>=3.22'
 ---
 
 {% link_with_intro /introduction-to-github-actions %}
